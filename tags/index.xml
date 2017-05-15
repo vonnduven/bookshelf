@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ken Ramos Book Reviews</title>
-    <link>http://vonnduven.github.io/bookshelf/tags/</link>
-    <description>Recent content in Tags on Ken Ramos Book Reviews</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Ken Ramos Book Reviews </title>
+    <link>https://vonnduven.github.io/bookshelf/tags/</link>
     <language>en-us</language>
+    <author>Ken Ramos</author>
+    <rights>(C) 2017</rights>
+    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+
     
-	<atom:link href="http://vonnduven.github.io/bookshelf/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
   </channel>
 </rss>

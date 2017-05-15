@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://vonnduven.github.io/bookshelf/post/good-to-great/</loc>
+    <loc>https://vonnduven.github.io/bookshelf/post/good-to-great/</loc>
     <lastmod>2017-05-15T07:45:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vonnduven.github.io/bookshelf/categories/</loc>
+    <loc>https://vonnduven.github.io/bookshelf/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vonnduven.github.io/bookshelf/</loc>
-    <lastmod>2017-05-15T07:45:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vonnduven.github.io/bookshelf/post/</loc>
+    <loc>https://vonnduven.github.io/bookshelf/</loc>
     <lastmod>2017-05-15T07:45:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vonnduven.github.io/bookshelf/tags/</loc>
+    <loc>https://vonnduven.github.io/bookshelf/post/</loc>
+    <lastmod>2017-05-15T07:45:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vonnduven.github.io/bookshelf/tags/</loc>
     <priority>0</priority>
   </url>
   
